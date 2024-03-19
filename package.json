@@ -1,8 +1,8 @@
 {
-  "name": "@cyntler/react-doc-viewer",
-  "version": "1.13.0",
+  "name": "@scorpion626/react-doc-viewer",
+  "version": "1.13.1",
   "description": "File viewer for React.",
-  "author": "Matthew Mogford / Damian Cyntler",
+  "author": "Vadim Khlebunov",
   "keywords": [
     "reactjs",
     "file-viewer"
